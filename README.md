@@ -1,4 +1,4 @@
-# Astar-RigidRobots Algorithm Planner implementation on a Turtlebot
+# Astar-Rigid Robots Algorithm Planner implementation on a Turtlebot
 
 This package consists of a path planner for a turtlebot robot.
 
